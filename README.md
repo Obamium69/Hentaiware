@@ -25,10 +25,10 @@ sudo dnf install cmake gcc-c++ gdb git libstdc++-static mesa-libGL-devel SDL2-de
 
 ===================
 
-#### Download Fuzion:
+#### Download HentaiWare:
 
 ```bash
-git clone --recursive https://github.com/LWSS/Fuzion
+git clone --recursive https://github.com/Obamium69/Hentaiware.git
 ```
 
 ```bash
